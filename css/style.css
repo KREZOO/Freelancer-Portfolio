@@ -107,7 +107,7 @@ body {
 
 /*--Services--*/
 .services {
-    background: #FFFFFF;
+    background: #FFFFFF 0 0/100% 100%;
 }
 
 .services-row {
