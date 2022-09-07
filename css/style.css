@@ -425,8 +425,8 @@ body {
 }
 
 @media (max-width: 400px) {
-       .header-image {
-     text-align: center;
+    .header-image {
+        text-align: center;
     }
     .contact-social {
         column-gap: 31px;
