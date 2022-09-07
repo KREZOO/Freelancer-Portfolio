@@ -384,6 +384,11 @@ body {
     .services-row {
         padding: 60px 0;
     }
+    
+    .services-card {
+    flex: 1 1 0;
+    min-width: 290px;
+    }
 
     .header-heading {
         font-size: 34px;
